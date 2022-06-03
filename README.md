@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abderrahmane</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Abderrahmane</h1>
 <h3 align="center">I'm a passionate web developer from Morocco <span><img src="https://img.icons8.com/color/24/000000/morocco-circular.png"/></span></h3>
 
 ## 🙋‍♂️ About Me
