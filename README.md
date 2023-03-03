@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/elanizi43998)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/elanizi43998?tab=repositories)**
 
-- 📫 How to reach me **elaniziabderrahmane@gmail.com**
+- 📫 How to reach me **[My LinkendIn](https://www.linkedin.com/in/abderrahmane-elanizi-ba118a19b/)**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s** so don't worry
 
