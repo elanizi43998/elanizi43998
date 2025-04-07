@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently focusing on **Javascript & Java technologies**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m passionate about learning **Web Development**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/elanizi43998?tab=repositories)**
 
