@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi , I'm Abderrahmane</h1>
+<h1 align="center">Hi , I'm Abdo</h1>
 <h3 align="center">I'm a passionate web developer from Morocco <span><img src="https://img.icons8.com/color/24/000000/morocco-circular.png"/></span></h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently focusing on **Javascript & Java technologies**
+- 🔭 I’m currently focusing on **Java & Javascript**
 
 - 🌱 Passionate about learning **Web Development**
 
@@ -43,4 +43,5 @@
 <a href = "https://www.linkedin.com/in/abderrahmane-elanizi-ba118a19b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 </p>
+
 
